@@ -24,4 +24,6 @@
 
 ・prettierを追加
 
+・hooks, componentsを追加
+
 ・READMEのアップデート
